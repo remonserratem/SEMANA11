@@ -1,0 +1,20 @@
+{
+    "123": {
+        "id": "123",
+        "nombre": "LAPTOP LENOVO M.2",
+        "cantidad": 40,
+        "precio": 470.0
+    },
+    "124": {
+        "id": "124",
+        "nombre": "MOUSE HP",
+        "cantidad": 60,
+        "precio": 10.0
+    },
+    "125": {
+        "id": "125",
+        "nombre": "CABLE HDMI ",
+        "cantidad": 100,
+        "precio": 3.0
+    }
+}
